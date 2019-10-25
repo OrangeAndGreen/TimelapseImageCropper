@@ -1,0 +1,4 @@
+Process on separate thread
+Click outside UI element to set value
+Auto-detect and preset image interval
+Update status along with progress bar (i.e. 435 of 500)
